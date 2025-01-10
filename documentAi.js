@@ -11,8 +11,6 @@ const location = process.env.LOCATION;
 const processorId = process.env.PROCESSOR_ID;
 
 async function documentAi(filePath) {
-
-	fs.unlink("./public/outputs/output1.txt");
 	try {
 		// Instantiates a client
 		const client = new DocumentProcessorServiceClient();
@@ -77,6 +75,7 @@ async function documentAi(filePath) {
 		}
 		type += "Text extraction from invoice ends here...";
 
+		console.log("SUCCESS");
 		return type;
 	} catch (error) {
 		console.log("Error while processing document:");
