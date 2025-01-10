@@ -1,0 +1,86 @@
+Text extraction from invoice starts here...
+Tax Invoice
+Shipment Code: # LDK0256765135
+Order: #1294111973
+Order Date: 01/09/2024
+Total Quantity: 1
+1294111973
+a
+lenskart
+LENSKART SOLUTIONS PRIVATE LIMITED
+Property No 29/24/2, 25/2/1, 30/4/1, 5/1, 6/1/1,
+6/1/2, Revenue Estate Of Village Begumpur
+Khatola,Gurugram (06) - 122004
+Contact Email: support@lenskart.com
+GSTIN No:06AACCV7324B1ZO
+CIN: U33100DL2008PTC178355
+Invoice: # INHR232417647511
+Invoice Date: 01/09/2024
+www.lenskart.com 19999899998(between 9 AM
+- 8 PM)
+11973
+Shipment Code:
+LDK0256765135
+Bill To Address
+ARYAN SHRIVASTAV
+1/10564, kh no. 350-351 mohan park, naveen
+shahdaraDELHI-110032
+Delhi (07),India
+Payment Method: PREPAID
+Gift From:
+Address Of Delivery
+Gift To:
+Customer Comments:
+ARYAN SHRIVASTAV
+1/10564, kh no. 350-351 mohan park, naveen
+shahdara,
+DELHI
+Delhi (07)
+India
+Description Of Goods
+One Year Gold Membership -Product Id:128269
+Inclusive of_Lens Package: HSN Code:"999799"
+Shipping Charges (HSN-996511):
+UNIT DISCOUN
+PRICE
+IGST
+SGST
+CGST
+QTY
+UNIT
+PRICE
+T.
+(Inc. GST)
+0.85
+0.00
+0.15 @
+0.00 @
+0.00 @
+1
+1.00
+18.0%
+0.0%
+0.0%
+7.47
+41.53
+0.00
+0.00
+49.00
+(18.0%)
+IGST
+CGST:
+SGST:
+Grand Total:
+7.62
+0.00
+0.00
+50.00
+Disclaimer:
+1. This is computer generated invoice and does not require signature.
+2. For other T&C Please refer our website www.lenskart.com 3. Tax is payable on reverse
+charge basis: No
+LENSKART SOLUTIONS PRIVATE LIMITED
+Authorized Signatory
+Text extraction from invoice ends here...
+
+			- - Document AI extraction output - - 
